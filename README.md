@@ -48,7 +48,7 @@ The visualization distances are vast. Zoom out significantly if the screen turns
 -open the folder in any code editor 
 
 3.download requiremnts.txt   
--pip install requirements.txt
+-pip install -r requirements.txt
 
 4.run solar system simulation   
 -python3 main.py
